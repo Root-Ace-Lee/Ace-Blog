@@ -13,9 +13,9 @@ Ace-Blog is a core module necessary to start a blogging platform business.
 ### Platform Support
 + Support desktop web application.
 + Do not support desktop old browsers, released before 2019.01.01. Support new browsers, released after 2019.01.01.
-+ Do not support desktop native application.
-+ Do not support mobile web application.
-+ Do not support mobile native application.
++ Do not support desktop native application not yet.
++ Do not support mobile web application not yet.
++ Do not support mobile native application not yet.
 
 ## Road Map
 ...
